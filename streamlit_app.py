@@ -5,7 +5,7 @@ import snowflake.connector
 from urllib.error import URLError
 
 # Started off by adding a title
-streamlit.title('My Mom's New Healthy Diner')
+streamlit.title('New Healthy Diner Menu Options')
 # Then added a header
 streamlit.header('Breakfast Menu')
 #Then added some text
